@@ -1,0 +1,5 @@
+Hello!
+
+Your next step is to move to folder b.  Please move there using the command
+"cd .." and then the command "cd b".  Alternately, you can use the command
+"cd ../b".

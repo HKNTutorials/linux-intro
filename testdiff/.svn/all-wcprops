@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/hkn-uiuc-linux-tutorial-fall-11/!svn/ver/9/testdiff
+END
+book1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hkn-uiuc-linux-tutorial-fall-11/!svn/ver/9/testdiff/book1.txt
+END
+book2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hkn-uiuc-linux-tutorial-fall-11/!svn/ver/9/testdiff/book2.txt
+END
